@@ -12,7 +12,3 @@ A simple console-based project built using **Java** and **Linked List** for mana
 - DSA (Linked List)
 - File Handling
 
-## 🚀 How to Run
-```bash
-javac StudentManagementSystem.java
-java StudentManagementSystem
